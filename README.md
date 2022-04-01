@@ -25,7 +25,7 @@ FRAMEWORK: Coleção de classes abstratas, objetos e padrões dedicados a resolv
 
 Exemplo: Dentro de um Framework contém várias bibliotecas
 
-Abaixo alguns framework utilizadas pelo JavaScript:
+Abaixo alguns framework utilizados pelo JavaScript:
 
 •	Anagular
 
