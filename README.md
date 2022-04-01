@@ -10,9 +10,13 @@ Exemplo: Você consegue consultar dentro de uma biblioteca vários tipos de fun�
 Abaixo algumas bibliotecas utilizadas pelo JavaScript:
 
 •	Moment.js
+
 •	Chart.js
+
 •	Voca
+
 •	Mo.js
+
 •	React
 
 FRAMEWORK: Coleção de classes abstratas, objetos e padrões dedicados a resolver determinados problemas em uma arquitetura flexível e extensível.
@@ -22,8 +26,12 @@ Exemplo: Dentro de um Framework contém várias bibliotecas
 Abaixo alguns framework utilizadas pelo JavaScript:
 
 •	Anagular
+
 •	Vue.js
+
 •	Ionic
+
 •	Express
+
 •	Loppback
 
