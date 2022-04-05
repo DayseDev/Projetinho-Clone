@@ -23,7 +23,7 @@ Abaixo algumas bibliotecas utilizadas pelo JavaScript:
 
 FRAMEWORK: Coleção de classes abstratas, objetos e padrões dedicados a resolver determinados problemas em uma arquitetura flexível e extensível.
 
-Exemplo: Dentro de um Framework contém várias bibliotecas
+Exemplo: Dentro de um framework contém várias bibliotecas
 
 Abaixo alguns framework utilizados pelo JavaScript:
 
