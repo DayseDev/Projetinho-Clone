@@ -8,7 +8,7 @@ BIBLIOTECA: Conjunto de códigos voltados a solucionar um determinado tipo de pr
 
 Exemplo: Você consegue consultar dentro de uma biblioteca vários tipos de funções para resolver uma operação matemática.
 
-Abaixo algumas bibliotecas utilizados pelo JavaScript:
+Abaixo algumas bibliotecas utilizadas pelo JavaScript:
 
 •	Moment.js
 
